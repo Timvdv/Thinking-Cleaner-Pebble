@@ -1,4 +1,8 @@
 Thinking-Cleaner-Pebble
 =======================
 
-A Pebble (smartwatch) remote for the Roomba (requires the Thinking cleaner module)
+A Pebble remote for the Roomba vacuum cleaner.
+
+**requires**
+- A Pebble smartwatch
+- Roomba with Thinking Cleaner module (http://www.thinkingcleaner.com)
